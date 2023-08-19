@@ -1,0 +1,36 @@
+start extract file:tmp/enwiki-20181001-corpus.parsed.27610000-27615000.json
+2907
+spend_success
+spend_success
+spend_success
+spend_success
+spend_success
+spend_success
+spend_success
+spend_success
+take_success
+take_success
+start extract file:tmp/enwiki-20181001-corpus.parsed.31995000-32000000.json
+2719
+take_success
+take_success
+take_success
+take_success
+spend_success
+spend_success
+take_success
+take_success
+start extract file:tmp/enwiki-20181001-corpus.parsed.14805000-14810000.json
+2827
+spend_success
+spend_success
+start extract file:tmp/enwiki-20181001-corpus.parsed.45935000-45940000.json
+2473
+spend_success
+spend_success
+spend_success
+spend_success
+take_success
+take_success
+take_success
+take_success
